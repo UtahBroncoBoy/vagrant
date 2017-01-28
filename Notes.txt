@@ -1,1 +1,2 @@
 Text file used to mess around with Git in VS Code.
+Changing this to see what VS Code does.
